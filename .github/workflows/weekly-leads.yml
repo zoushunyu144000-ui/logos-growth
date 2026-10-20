@@ -1,0 +1,31 @@
+name: weekly-leads
+# Runs discovery + audit + scoring on GitHub's free runners (open internet).
+# Never sends anything: output is a commit of leads/master.csv and outreach drafts.
+on:
+  schedule: [{ cron: "0 22 * * 0" }]   # Monday 06:00 Penang time
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    env:
+      PSI_API_KEY: ${{ secrets.PSI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Discover (OSM)
+        run: |
+          cd leadgen
+          while IFS=, read -r city country niche; do
+            python discover_osm.py "$city" "$country" "$niche" || true
+            sleep 5
+          done < ../config/discovery_targets.csv
+      - name: Pipeline
+        run: python run.py
+      - name: Commit results
+        run: |
+          git config user.name "leadgen-bot"; git config user.email "leadgen-bot@users.noreply.github.com"
+          git add leads outreach && git commit -m "weekly leads $(date +%F)" || echo "nothing new"
+          git push

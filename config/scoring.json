@@ -1,0 +1,61 @@
+{
+  "_note": "v1 weights are judgment calls, not data. Website-weakness signals don't stack: the strongest counts, each extra adds 'extra_weakness' (max 2). Re-tune after the first 50 outreach replies.",
+  "audit": {
+    "site_down": 20,
+    "no_https": 15,
+    "no_viewport": 20,
+    "stale_year": 15,
+    "no_conversion": 10,
+    "psi_below_50": 10
+  },
+  "industry_bonus": {
+    "dental": 12,
+    "physio": 12,
+    "chiro": 10,
+    "clinic": 10,
+    "psycholog": 8,
+    "electric": 10,
+    "plumb": 10,
+    "roof": 10,
+    "builder": 8,
+    "landscap": 8,
+    "clean": 6,
+    "account": 8,
+    "bookkeep": 8,
+    "lawyer": 8,
+    "solicitor": 8,
+    "salon": 6,
+    "beauty": 6,
+    "cafe": 4,
+    "restaurant": 4,
+    "retail": 4
+  },
+  "country_bonus": {
+    "Australia": 8,
+    "United Kingdom": 5,
+    "United States": 4,
+    "Singapore": 3
+  },
+  "tiers": {
+    "A": 63,
+    "B": 45
+  },
+  "weakness": {
+    "no_website": 30,
+    "facebook_only": 30,
+    "directory_only": 25,
+    "coming_soon": 25,
+    "free_subdomain": 25,
+    "broken_hint": 20,
+    "stale_copyright": 20,
+    "old_builder": 15,
+    "no_https": 15,
+    "not_mobile_hint": 15
+  },
+  "extra_weakness": 5,
+  "business": {
+    "good_reviews": 15,
+    "active_business": 8
+  },
+  "reachable_site": 10
+}
