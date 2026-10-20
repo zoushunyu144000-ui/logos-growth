@@ -1,0 +1,15 @@
+country,city,industry,business_name,website,source_url,evidence,signals,has_own_site,found_via
+Singapore,Singapore,physio,Sports Solutions,,https://www.openstreetmap.org/node/3830449691,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Knead,https://knead-hv.com/,https://www.openstreetmap.org/node/4368147028,OSM listing,active_business,yes,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Armstrong's Sports Therapy,,https://www.openstreetmap.org/node/4726762098,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Chien Chi Tow,,https://www.openstreetmap.org/node/4732987905,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Hallmark,,https://www.openstreetmap.org/node/4740088249,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Care Physiotherapy Clinic,,https://www.openstreetmap.org/node/5055589404,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Rapid Physiocare,,https://www.openstreetmap.org/node/8597539844,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,The Muscle Lab Singapore,,https://www.openstreetmap.org/node/9574586550,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Phyx Physiotherapy,,https://www.openstreetmap.org/node/9759059980,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Elevate Physiotherapy,https://elevatephysio.com.sg/,https://www.openstreetmap.org/node/11465871354,OSM listing,active_business,yes,osm-overpass 2026-10-20
+Singapore,Singapore,physio,The Physio Movement,https://www.thephysiomovement.com/,https://www.openstreetmap.org/node/12083096408,OSM listing,active_business,yes,osm-overpass 2026-10-20
+Singapore,Singapore,physio,The Movement Laboratory,https://www.movementlab.sg/,https://www.openstreetmap.org/node/12201243910,OSM listing,active_business,yes,osm-overpass 2026-10-20
+Singapore,Singapore,physio,Exodus Physiotherapy,,https://www.openstreetmap.org/node/12406515165,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-20
+Singapore,Singapore,physio,The Physio Circle,https://www.facebook.com/revelrysg/,https://www.openstreetmap.org/node/12441359993,OSM listing; no website tag,active_business;facebook_only,unknown,osm-overpass 2026-10-20

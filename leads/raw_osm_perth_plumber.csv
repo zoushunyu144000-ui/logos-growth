@@ -1,0 +1,3 @@
+country,city,industry,business_name,website,source_url,evidence,signals,has_own_site,found_via
+Australia,Perth,plumber,iSeal Bathrooms,https://isealbathrooms.com.au/,https://www.openstreetmap.org/node/13081957184,OSM listing,active_business,yes,osm-overpass 2026-10-20
+Australia,Perth,plumber,Reece Pty Ltd,https://www.reece.com.au,https://www.openstreetmap.org/node/13455600901,OSM listing,active_business,yes,osm-overpass 2026-10-20
