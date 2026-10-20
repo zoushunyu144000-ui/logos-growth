@@ -5,6 +5,7 @@ approved by the owner before anything is sent. Observations come only from the l
 recorded evidence/audit fields; nothing is invented.
 """
 import json
+from datetime import date
 import os
 import re
 import sys
@@ -32,14 +33,14 @@ def observations(r):
         obs.append(f"your website lives on a free builder address ({domain_of(r['website'])}) rather than "
                    "your own domain, which can make an established business look newer than it is")
     if r.get("audit_at"):
-        if r.get("http_status") in ("0", "") or not r.get("http_status", "").startswith(("2", "3")):
+        if r.get("http_status") == "0" or r.get("http_status", "").startswith("5"):
             obs.append("your website didn't load when I tried it")
         if r.get("mobile_viewport") == "no":
             obs.append("the site isn't set up for phones, so it shows as a shrunken desktop page on mobile")
         if r.get("https") == "no":
             obs.append("the site has no HTTPS, so Chrome labels it \"Not secure\"")
         y = r.get("copyright_year")
-        if y:
+        if y and y.isdigit() and int(y) <= date.today().year - 4:
             obs.append(f"the footer still says {y}, which can make visitors wonder if you're still trading")
         if r.get("has_form") == "no" and r.get("has_booking") == "no":
             obs.append("there's no quick enquiry or booking form")

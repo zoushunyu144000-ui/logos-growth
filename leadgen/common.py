@@ -35,6 +35,12 @@ def free_subdomain(url):
     return next((f for f in FREE_SUBDOMAINS if d.endswith(f) or f in d), "")
 
 
+def site_broken(row):
+    """True only for hard failures (unreachable, 404, 5xx); 403 usually means bot protection."""
+    st = row.get("http_status", "")
+    return st == "0" or st == "404" or st.startswith("5")
+
+
 def today():
     return date.today().isoformat()
 

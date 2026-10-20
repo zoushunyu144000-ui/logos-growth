@@ -51,6 +51,7 @@ def analyze_html(html, url, status=200, final_url=None, elapsed_ms=None):
     }
     years = [int(y) for y in re.findall(
         r"(?:©|&copy;|copyright)\s*(?:\d{4}\s*[-–]\s*)?((?:19|20)\d{2})", html, re.I)]
+    years = [y for y in years if y <= date.today().year]
     r["copyright_year"] = str(max(years)) if years else ""
     gen = re.search(r'<meta[^>]+name=["\']generator["\'][^>]+content=["\']([^"\']+)', html, re.I)
     found = [name for name, pat in BUILDERS.items() if re.search(pat, html)]
@@ -68,6 +69,11 @@ def analyze_html(html, url, status=200, final_url=None, elapsed_ms=None):
         notes.append(f"footer year {r['copyright_year']}")
     if not r["meta_desc"]:
         notes.append("no meta description")
+    # Wix/Squarespace render forms and links with JS, so absence in raw HTML proves nothing
+    js_rendered = any(b in r["generator"].lower() for b in ("wix", "squarespace", "webflow"))
+    if js_rendered:
+        r["has_tel_link"] = r["has_tel_link"] if r["has_tel_link"] == "yes" else ""
+        r["has_form"] = r["has_form"] if r["has_form"] == "yes" else ""
     if r["has_tel_link"] == "no":
         notes.append("phone not tap-to-call")
     if r["has_form"] == "no" and r["has_booking"] == "no":

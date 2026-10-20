@@ -7,7 +7,7 @@ import os
 from collections import Counter
 from datetime import date
 
-from common import MASTER, ROOT, free_subdomain, is_social_or_directory, read_csv, signals_of, write_csv
+from common import MASTER, ROOT, free_subdomain, is_social_or_directory, site_broken, read_csv, signals_of, write_csv
 
 CFG = json.load(open(os.path.join(ROOT, "config", "scoring.json"), encoding="utf-8"))
 
@@ -21,14 +21,14 @@ def weaknesses(row):
     if free_subdomain(site):
         w.add("free_subdomain")
     if row.get("audit_at"):
-        if not row.get("http_status", "").startswith(("2", "3")):
+        if site_broken(row):
             w.add("broken_hint")
         if row.get("https") == "no":
             w.add("no_https")
         if row.get("mobile_viewport") == "no":
             w.add("not_mobile_hint")
         y = row.get("copyright_year")
-        if y and y.isdigit() and int(y) <= date.today().year - 3:
+        if y and y.isdigit() and int(y) <= date.today().year - 4:
             w.add("stale_copyright")
     return w
 
