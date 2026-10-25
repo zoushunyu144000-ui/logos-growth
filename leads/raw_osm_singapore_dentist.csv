@@ -1,0 +1,207 @@
+country,city,industry,business_name,website,source_url,evidence,signals,has_own_site,found_via
+Singapore,Singapore,dentist,Eden Dental Surgery,,https://www.openstreetmap.org/node/697293381,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Neo Smiles Dental Studio,https://neosmiles.com.sg/,https://www.openstreetmap.org/node/3557719046,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Wan's Dentist,,https://www.openstreetmap.org/node/3653443358,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Westfield Dental Surgery,,https://www.openstreetmap.org/node/3653443361,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,International Dental Centre,https://www.idcsg.com/,https://www.openstreetmap.org/node/3758967885,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smilepoint,https://www.smilepoint.com.sg/,https://www.openstreetmap.org/node/3830449689,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Vincent's Dental Surgery,,https://www.openstreetmap.org/node/4620794198,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Oliver Dental Surgery,,https://www.openstreetmap.org/node/4620794212,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Raintree Dental Clinic,,https://www.openstreetmap.org/node/4682785589,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Canaan Dental Surgery,,https://www.openstreetmap.org/node/4687289724,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Practice,,https://www.openstreetmap.org/node/4689399251,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Surgery,,https://www.openstreetmap.org/node/4689590453,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nam Fung Dental Surgery,,https://www.openstreetmap.org/node/4689610590,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nanyang Dentist,,https://www.openstreetmap.org/node/4689653681,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Hougang),,https://www.openstreetmap.org/node/4691065506,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Focus,,https://www.openstreetmap.org/node/4702286629,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Raffles Dental,,https://www.openstreetmap.org/node/4703167424,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dr Lam's Dental Surgery,,https://www.openstreetmap.org/node/4703885629,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Coast Dental,,https://www.openstreetmap.org/node/4703885632,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,TOOTH ANGELS & CO.,,https://www.openstreetmap.org/node/4715326732,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Azure Dental,,https://www.openstreetmap.org/node/4720691518,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Icon Dental Surgeons,,https://www.openstreetmap.org/node/4720691521,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/4722792626,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nuffield Dental,,https://www.openstreetmap.org/node/4722792632,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Pure Dental Studio,,https://www.openstreetmap.org/node/4723114963,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Designs,,https://www.openstreetmap.org/node/4724336432,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Ascent Dental Surgeons,,https://www.openstreetmap.org/node/4734870700,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Gentle Dental Group,https://www.gentledental.com.sg,https://www.openstreetmap.org/node/4734935245,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Pure Dental,,https://www.openstreetmap.org/node/4734935271,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Gentle Dental Group,,https://www.openstreetmap.org/node/4738171720,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Horizon Dental Surgery,,https://www.openstreetmap.org/node/4738274222,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Centre (River Valley),https://qandm.com.sg/,https://www.openstreetmap.org/node/4738869421,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,My Braces Clinic,,https://www.openstreetmap.org/node/4745481939,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Rochor Dental Clinic,,https://www.openstreetmap.org/node/4745692776,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Family Dental Centre,,https://www.openstreetmap.org/node/4749012560,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,LVDA Dental Centre,,https://www.openstreetmap.org/node/4749248048,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Centre,,https://www.openstreetmap.org/node/4749426434,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Jurong Dental Surgery,,https://www.openstreetmap.org/node/4749738862,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Surgery,,https://www.openstreetmap.org/node/4750988977,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Crown Dental Clinic,,https://www.openstreetmap.org/node/5414652955,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Dental Group,,https://www.openstreetmap.org/node/5414652974,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Redhill Dental Surgery,,https://www.openstreetmap.org/node/5479251873,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Concept Dental Practice,,https://www.openstreetmap.org/node/5808854446,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,M K Dental Surgery,,https://www.openstreetmap.org/node/5850175545,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q & M Dental Surgery,,https://www.openstreetmap.org/node/5867134474,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Manchester Dental Care,,https://www.openstreetmap.org/node/5870249522,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,B. K. Lim Dental Surgery,,https://www.openstreetmap.org/node/5886939633,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,NEUGen Dental,,https://www.openstreetmap.org/node/5889777768,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Pan Island dental Surgery,,https://www.openstreetmap.org/node/5892423977,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/5942836052,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Hougang Central) Pte Ltd,,https://www.openstreetmap.org/node/6212980056,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Mandarin Dental Centre,,https://www.openstreetmap.org/node/6259542585,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,G.H. Goh Dental Surgery,,https://www.openstreetmap.org/node/6259556450,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Ngoi Dental Surgery,,https://www.openstreetmap.org/node/6362742848,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Atria-Pan Dental Group,,https://www.openstreetmap.org/node/6373832581,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tripod Dental Clinic,,https://www.openstreetmap.org/node/6390805199,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tripod Dental Clinic,,https://www.openstreetmap.org/node/6403503381,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,West Coast Dental,,https://www.openstreetmap.org/node/6510975844,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Focus,,https://www.openstreetmap.org/node/6575952454,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Doctor Dentalcare,,https://www.openstreetmap.org/node/6639726962,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/6648985985,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,https://qandm.com.sg/,https://www.openstreetmap.org/node/6648988789,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Centre,,https://www.openstreetmap.org/node/6846335514,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Unity Dental Surgery,,https://www.openstreetmap.org/node/6888268685,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/7053743514,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Depacific Dental Group,https://depacific.com/,https://www.openstreetmap.org/node/7082398135,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,TSD Dental Group,,https://www.openstreetmap.org/node/7088254219,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,British Dental Surgery,,https://www.openstreetmap.org/node/7088254224,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Vista Dental Surgery,,https://www.openstreetmap.org/node/7130112914,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tai Dental Surgery,,https://www.openstreetmap.org/node/7196923407,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Luminous,,https://www.openstreetmap.org/node/7196923464,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dr Seow Dental Clinic,,https://www.openstreetmap.org/node/7249160586,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dover Dental Surgery,,https://www.openstreetmap.org/node/7391293283,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,White Eco Dental Care,,https://www.openstreetmap.org/node/7530395436,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Arts Dental Studio,,https://www.openstreetmap.org/node/7530395447,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Littke India Dentist,,https://www.openstreetmap.org/node/7840396280,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Casa Dental (Holland),https://www.casadental.com.sg/,https://www.openstreetmap.org/node/7886889012,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Dental Surgery,,https://www.openstreetmap.org/node/7965444837,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Redhill MRT),,https://www.openstreetmap.org/node/8246669099,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Sengkang Dental Surgery,,https://www.openstreetmap.org/node/8448240741,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,NTUC Health Denticare,,https://www.openstreetmap.org/node/8455879620,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tiong Bahru Dental Surgery,,https://www.openstreetmap.org/node/8460232073,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Teeth @ Tiong Bahru,,https://www.openstreetmap.org/node/8460300250,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,SmileArts @ Tiong Bahru,,https://www.openstreetmap.org/node/8460300252,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Bright Smile Dental Surgery,,https://www.openstreetmap.org/node/8460359358,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M,,https://www.openstreetmap.org/node/8460359364,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Greenlife Dental Clinic,,https://www.openstreetmap.org/node/8460359367,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Advanced Dental,,https://www.openstreetmap.org/node/8474547219,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Inn,,https://www.openstreetmap.org/node/8474547223,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Sengkang),,https://www.openstreetmap.org/node/8481704622,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Eunos MRT),,https://www.openstreetmap.org/node/8496654268,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,NTUC Health Denticare (Bishan),,https://www.openstreetmap.org/node/8499503077,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tanglin Dental @ Bishan,,https://www.openstreetmap.org/node/8520102602,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Smile Clinique,,https://www.openstreetmap.org/node/8520102603,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Pure Dental,,https://www.openstreetmap.org/node/8520102606,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Dental Surgery,,https://www.openstreetmap.org/node/8520102611,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,T&T Dental Surgery,,https://www.openstreetmap.org/node/8520114145,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,City Dental Surgery,,https://www.openstreetmap.org/node/8527367905,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Shenton Dental Surgery,,https://www.openstreetmap.org/node/8527380228,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Le MinT's Dental Surgery,,https://www.openstreetmap.org/node/8527380233,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Buangkok Mrt),,https://www.openstreetmap.org/node/8548140740,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,NTUC Health Denticare (Ang Mo Kio),,https://www.openstreetmap.org/node/8556164736,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Liverpool Dental Care,,https://www.openstreetmap.org/node/8556347218,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nuffield Dental Jewel,,https://www.openstreetmap.org/node/8566472177,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Lee & Ong,,https://www.openstreetmap.org/node/8566518460,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,depacific,,https://www.openstreetmap.org/node/8568727654,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,DP Dental,,https://www.openstreetmap.org/node/8577798766,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Crown Dental Surgery,,https://www.openstreetmap.org/node/8577871940,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,King's Dental Surgery (Kovan) Pte Ltd,,https://www.openstreetmap.org/node/8577871947,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Kovan) Pte Ltd,,https://www.openstreetmap.org/node/8577871948,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Pang Dental,,https://www.openstreetmap.org/node/8577937534,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Neo Smiles Dental Studio Kovan,,https://www.openstreetmap.org/node/8578225063,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nuffield Dental Central,,https://www.openstreetmap.org/node/8582266724,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Payar Lebar),,https://www.openstreetmap.org/node/8597349726,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Tanjong Katong),,https://www.openstreetmap.org/node/8597884832,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smiles R Us Dental Clinic,,https://www.openstreetmap.org/node/8597884856,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Practice (Paya Lebar),,https://www.openstreetmap.org/node/8598401008,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Centre (Bugis),,https://www.openstreetmap.org/node/8610032718,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery (Seletar),,https://www.openstreetmap.org/node/8620920500,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Dental Orthodontic Centre,,https://www.openstreetmap.org/node/8620920512,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,teeth.Q,,https://www.openstreetmap.org/node/8621167720,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,B9 Dental Centre,,https://www.openstreetmap.org/node/8627880702,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Central Clinic,,https://www.openstreetmap.org/node/8627982675,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental,https://qandm.com.sg/,https://www.openstreetmap.org/node/8628474467,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,International Plaza Dental Surgeons,,https://www.openstreetmap.org/node/8642464784,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Central Clinic,,https://www.openstreetmap.org/node/8647884599,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Raffles Dental,,https://www.openstreetmap.org/node/8658809933,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/8658809935,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Rochor Dental Clinic,,https://www.openstreetmap.org/node/8972077624,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Toof Doctor,,https://www.openstreetmap.org/node/9061507020,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,iDental,,https://www.openstreetmap.org/node/9061516717,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Bright Dental Surgery,,https://www.openstreetmap.org/node/9066255058,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,B9 Dental Centre (Clementi),,https://www.openstreetmap.org/node/9107869843,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Mandarin Dental Centre,,https://www.openstreetmap.org/node/9229731217,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Advanced Dental,,https://www.openstreetmap.org/node/9269019949,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Thomson Plaza Dental Surgery,,https://www.openstreetmap.org/node/9271267295,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Epismile Inc Dental group Pte Ltd,,https://www.openstreetmap.org/node/9271267310,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Faith Dental Surgery,,https://www.openstreetmap.org/node/9340791672,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Centre,,https://www.openstreetmap.org/node/9547678724,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Sunshine Dental,,https://www.openstreetmap.org/node/9574586539,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Glory Dental Surgery,,https://www.openstreetmap.org/node/9710656500,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Orthodontic & Paediatric Dental Centre,,https://www.openstreetmap.org/node/9710870186,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,TS Dental Care,,https://www.openstreetmap.org/node/9739022110,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q & M Dental Surgery (Jurong West),,https://www.openstreetmap.org/node/9754992082,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,TSD Dental Group (Tampines),,https://www.openstreetmap.org/node/9810591355,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Arts Dental Studio,,https://www.openstreetmap.org/node/9817094636,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Newlife Dental Practice,,https://www.openstreetmap.org/node/9828203729,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smiles R Us,,https://www.openstreetmap.org/node/9885134554,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M,,https://www.openstreetmap.org/node/9929710769,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Newport Dental,,https://www.openstreetmap.org/node/9942071347,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M,,https://www.openstreetmap.org/node/9942903951,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Bliss Dental (Hougang),,https://www.openstreetmap.org/node/10095179608,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,TSD Dental Group (Hougang),,https://www.openstreetmap.org/node/10225581007,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Vista Dental Surgery,,https://www.openstreetmap.org/node/10225581011,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Le Mint's Dental Centre,,https://www.openstreetmap.org/node/10242087185,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Teeth.Q,,https://www.openstreetmap.org/node/10692469800,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,St. Andrew's Dental Surgeons,https://standrewsdentalsurgeons.com/,https://www.openstreetmap.org/node/10798807505,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Sembawang Dental Surgery,,https://www.openstreetmap.org/node/10833950729,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Dental Surgery,,https://www.openstreetmap.org/node/10893520531,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Luminous,,https://www.openstreetmap.org/node/10895101840,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Advanced Dental Toa Payoh,,https://www.openstreetmap.org/node/10940122710,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,AllSmiles Dental Care Rochor,,https://www.openstreetmap.org/node/10968864665,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Li Dental Centre,,https://www.openstreetmap.org/node/10968880934,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Harmony Dental Surgery,,https://www.openstreetmap.org/node/11012000735,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Practice,,https://www.openstreetmap.org/node/11101819312,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Amoy street dental,,https://www.openstreetmap.org/node/11135567127,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Nuffield Dental,,https://www.openstreetmap.org/node/11434168637,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,DePacific Dental,https://www.depacific.com/,https://www.openstreetmap.org/node/11521903344,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/11602274671,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Absolute Family Dental,,https://www.openstreetmap.org/node/11754949189,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Toothsmith,,https://www.openstreetmap.org/node/11754949212,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Delta Dental Surgeons,,https://www.openstreetmap.org/node/11813463339,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tooth Matters Dental Surgery,,https://www.openstreetmap.org/node/11816822665,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/11841394938,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Joy Dental Centre (Punggol),,https://www.openstreetmap.org/node/12039748115,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Joy Dental Centre,,https://www.openstreetmap.org/node/12041257072,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Academy Choa Chu Kang,,https://www.openstreetmap.org/node/12083098136,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Advanced Dental,https://www.advanceddental.co/,https://www.openstreetmap.org/node/12143316833,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Twinkle Family Dentalcare,https://www.twinkledental.com.sg/,https://www.openstreetmap.org/node/12144138747,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Advanced Dental @ Bukit Panjang,,https://www.openstreetmap.org/node/12147515553,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smile Arts,,https://www.openstreetmap.org/node/12208693704,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,DennisTan.com.sg - Veneers Singapore,,https://www.openstreetmap.org/node/12229313748,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Bethel Dental Surgery,,https://www.openstreetmap.org/node/12233632284,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Ng & Lum Dental Surgery,,https://www.openstreetmap.org/node/12369243772,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Denticare,https://denticare.com.sg/,https://www.openstreetmap.org/node/12401676701,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smilefocus,https://smilefocus.com.sg/,https://www.openstreetmap.org/node/12407243074,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,GPA Dental @ Parkview Square,https://gpadental.com/,https://www.openstreetmap.org/node/12408520904,OSM listing,active_business,yes,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M,,https://www.openstreetmap.org/node/12509455054,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Tanglin Dental,,https://www.openstreetmap.org/node/12525987403,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/node/12566028901,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Polygems Dental Care,,https://www.openstreetmap.org/node/12570330427,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental,,https://www.openstreetmap.org/node/12797683767,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Still Road Dental,,https://www.openstreetmap.org/node/12809422306,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Smileplus Dental,,https://www.openstreetmap.org/node/13001005373,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Kong Dental Surgery,,https://www.openstreetmap.org/node/13075439197,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Luminous Dental Clinic @ Tampines Plaza,,https://www.openstreetmap.org/node/13253239225,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Yeo Dental Surgery,,https://www.openstreetmap.org/node/13253239241,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Rainbow Dental Surgery,,https://www.openstreetmap.org/node/14249144579,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Dental Surgery,,https://www.openstreetmap.org/way/327193353,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,The Dental Clinic,,https://www.openstreetmap.org/way/329638361,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,C&A Dental Studio,,https://www.openstreetmap.org/way/746033002,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,NTUC Denticare,,https://www.openstreetmap.org/way/746033011,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Dental Icon,,https://www.openstreetmap.org/way/746033012,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Theng & Partners,,https://www.openstreetmap.org/way/746033017,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Royce Dental Surgery,,https://www.openstreetmap.org/way/747196862,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Singapore,Singapore,dentist,Q&M Dental Surgery,,https://www.openstreetmap.org/way/1160679745,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25

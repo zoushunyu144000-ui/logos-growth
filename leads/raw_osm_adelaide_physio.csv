@@ -1,0 +1,4 @@
+country,city,industry,business_name,website,source_url,evidence,signals,has_own_site,found_via
+Australia,Adelaide,physio,City Physiotherapy,,https://www.openstreetmap.org/node/4452567365,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Australia,Adelaide,physio,Tweak Physio,,https://www.openstreetmap.org/node/14093255475,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
+Australia,Adelaide,physio,Physio Xtra,,https://www.openstreetmap.org/way/242585090,OSM listing; no website tag,active_business,unknown,osm-overpass 2026-10-25
